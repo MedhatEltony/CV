@@ -1,5 +1,5 @@
 # CV
 + - [X] Html 
 - - [ ] Css
-- [ ] javascript
++ - [ ] javascript
 -
